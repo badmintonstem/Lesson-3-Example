@@ -1,4 +1,4 @@
-potatoes = int(input("How many potatoes? > "))
+potatoes = int(input("How many potatoes do you have? "))
 if potatoes < 10:
     print("Buy more potatoes!")
 else:
